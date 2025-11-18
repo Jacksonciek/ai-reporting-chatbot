@@ -1,0 +1,10 @@
+/.env
+.venv/
+.vscode
+__pycache__/
+tests\PlotterTest\.env
+./Chinook.db
+.venv/
+sqlite-autoconf-3450200/
+chroma_langchain_db/
+chat_chroma/
